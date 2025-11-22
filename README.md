@@ -90,7 +90,7 @@ You can extend the project by:
 
 ## 🗂️ Dataset
 
-Store all `.txt` files inside the `data/` directory.
+News article dataset from kaggle
 
 ## 🤝 Contributing
 
